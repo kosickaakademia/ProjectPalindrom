@@ -7,4 +7,5 @@ public class Main {
         int result = stvorec1.calcPerimeter();
         System.out.println("Result: "+result);
     }
+//test
 }
